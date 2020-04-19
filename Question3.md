@@ -2,7 +2,7 @@
 
 #### To run the container use
 ```
-docker run -d --name sarthak.j3q3 -p 8080:80 dockerashu/ckad:v2
+docker run -d --name sarthak.j3q3 -p 8000:80 dockerashu/ckad:v2
 ```
 #### Accessing using
 ```
