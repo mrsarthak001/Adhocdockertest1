@@ -20,6 +20,5 @@ docker login
 docker push sarthakjain07/adhoc:sarthakjain07
 ```
 
-
 #### The image has be uploaded to Docker Hub
 ##### [Link to the Image](https://hub.docker.com/repository/registry-1.docker.io/sarthakjain07/adhoc/tags?page=1)
