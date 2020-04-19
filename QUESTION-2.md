@@ -1,7 +1,7 @@
 # Question 2
 #### Run the Command to create the Dockerfile
 ```
-docker build -t adhoc:rhythmbhiwani https://github.com/redashu/summer2020dockertest.git
+docker build -t adhoc:sarthak https://github.com/redashu/summer2020dockertest.git
 ```
 
 #### Use this command to tag the image
