@@ -38,4 +38,4 @@ docker tag sarthakjain07:q4 sarthakjain07/sarthak:q4
 docker push sarthakjain07/sarthak:q4
 ```
 
-#### [Docker HUB Image Link](https://hub.docker.com/repository/docker/sarthakjain07/sarthak)
+#### [Docker HUB Image Link](https://hub.docker.com/repository/docker/sarthakjain07/adhoc)
