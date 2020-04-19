@@ -6,7 +6,7 @@ docker build -t adhoc:sarthak https://github.com/redashu/summer2020dockertest.gi
 
 #### Use this command to tag the image
 ```
-docker tag adhoc:rhythmbhiwani sarthakjain07/adhoc:sarthakjain07
+docker tag adhoc:sarthak sarthakjain07/adhoc:sarthakjain07
 ```
 
 #### Then use this to login to docker
